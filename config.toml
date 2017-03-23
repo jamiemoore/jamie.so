@@ -2,6 +2,7 @@ baseURL = "https://jamie.so/"
 languageCode = "en-us"
 title = "DevOps = People over Process over Tools"
 theme = "beautifulhugo"
+googleAnalytics = "UA-357049-2"
 
 [params]
   DateForm = "Mon Jan 2, 2006"

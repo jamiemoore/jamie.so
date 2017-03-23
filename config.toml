@@ -1,0 +1,9 @@
+baseURL = "https://jamie.so/"
+languageCode = "en-us"
+title = "DevOps = People over Process over Tools"
+theme = "beautifulhugo"
+
+[params]
+  DateForm = "Mon Jan 2, 2006"
+  DateFormat = "Mon Jan 2, 2006"
+

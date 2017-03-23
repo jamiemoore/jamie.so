@@ -1,1 +1,1 @@
-# jamie.so
+# Hugo Repo for jamie.so

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevOps = People over Process over Tools</title>
+    <link>https://jamie.so/post/index.xml</link>
+    <description>Recent content in Posts on DevOps = People over Process over Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 23:24:02 +1100</lastBuildDate>
+    <atom:link href="https://jamie.so/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>https://jamie.so/post/welcome/</link>
+      <pubDate>Thu, 23 Mar 2017 23:24:02 +1100</pubDate>
+      
+      <guid>https://jamie.so/post/welcome/</guid>
+      <description>
+
+&lt;p&gt;Here is some content.&lt;/p&gt;
+
+&lt;h1 id=&#34;header&#34;&gt;Header&lt;/h1&gt;
+
+&lt;p&gt;aaa&lt;/p&gt;
+
+&lt;h2 id=&#34;sub&#34;&gt;sub&lt;/h2&gt;
+
+&lt;p&gt;aaaa&lt;/p&gt;
+
+&lt;h3 id=&#34;third&#34;&gt;Third&lt;/h3&gt;
+
+&lt;p&gt;aaaa&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dot&lt;/li&gt;
+&lt;li&gt;s&lt;/li&gt;
+&lt;li&gt;ff&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#!/bin/bash
+echo &amp;quot;test&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

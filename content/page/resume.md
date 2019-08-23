@@ -7,7 +7,7 @@ comments: false
 
 ## Career Goal
  
-Contribute to an organisation by designing and developing their continuous delivery systems and cloud engineering patterns.
+Contribute to an organisation by working with engineers to design and develop their continuous delivery systems and cloud engineering patterns.
  
 ## Skills and Experience
 * I have worked as a Software/Systems/DevOps Engineer for over twenty years.  In that time, I have designed, built and maintained a wide variety of computer systems. 

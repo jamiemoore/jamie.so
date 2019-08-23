@@ -1,10 +1,97 @@
 baseURL = "https://jamie.so/"
 languageCode = "en-us"
-title = "DevOps = People over Process over Tools"
+title = "jamie.so"
 theme = "beautifulhugo"
+metaDataFormat = "yaml"
+enableEmoji = true
+
+
 googleAnalytics = "UA-357049-2"
 
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+
+
 [params]
-  DateForm = "Mon Jan 2, 2006"
-  DateFormat = "Mon Jan 2, 2006"
+  Subtitle = "jamie's shared objects"
+  #commit = "https://github.com/jamiemoore/jamie.so/tree/"
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  #favicon = "img/favicon.ico"
+  dateFormat = "January, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = false
+  delayDisqus = true
+  showRelatedPosts = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+
+[Author]
+  name = "jamie"
+  website = "jamie.so"
+  email = "jbgmoore@gmail.com"
+  github = "jamiemoore"
+  linkedin = "jbgmoore"
+  #gitlab = "jamiemoore"
+  #bitbucket = "jbgmoore"
+  twitter = "jbgmoore"
+
+[[menu.main]]
+    name = ".plan"
+    url = "page/plan/"
+    weight = 1
+
+[[menu.main]]
+    name = "notes"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "resume"
+    url = "page/resume/"
+    weight = 2
+
+[[menu.main]]
+    name = "contact"
+    url = "page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "about"
+    url = "page/about/"
+    weight = 4
+
+[[menu.main]]
+    name = "talks"
+    url = "page/talks/"
+    weight = 1
+
+#[[menu.main]]
+#    name = "tags"
+#    url = "tags"
+#    weight = 3
+
+[permalinks]
+  posts = "/:year/:month/:title/"
 

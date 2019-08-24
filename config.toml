@@ -87,10 +87,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/talks/"
     weight = 1
 
-#[[menu.main]]
-#    name = "tags"
-#    url = "tags"
-#    weight = 3
+[[menu.main]]
+    name = "tags"
+    url = "tags"
+    weight = 1
 
 [permalinks]
   posts = "/:year/:month/:title/"

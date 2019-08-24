@@ -6,9 +6,9 @@ comments: false
 
 
 ## Career Goal
- 
+
 Contribute to an organisation by working with engineers to design and develop their continuous delivery systems and cloud engineering patterns.
- 
+
 ## Skills and Experience
 * I have worked as a Software/Systems/DevOps Engineer for over twenty years.  In that time, I have designed, built and maintained a wide variety of computer systems. 
 * I am certified and proficient in designing and implementing solutions on AWS as proven over the last five years. 
@@ -129,7 +129,7 @@ Previous positions dating back to July 1998 are available upon request.
 * Cisco CCNA (2006)
 
 ### Tertiary Qualification
-Gordon Institute of TAFE, Geelong  
+Gordon Institute of TAFE, Geelong
 Advanced Diploma of Computer Systems Engineering (2007)
            	            
 ## Notable Open Source Contributions
@@ -137,9 +137,9 @@ Prometheus (2017) - New feature allowing prometheus to assume an AWS IAM Role wh
 
 ## References
 Excellent written references from my past and current employers are available upon request.
- 
+
 ## Referees
 Referee details upon request.
- 
+
 ## Commencement of Duty
 My current contract will finish early October 2019 and I am next available after that date at your convenience.

@@ -1,11 +1,12 @@
 ---
 date: "2019-08-26T23:10:17+10:00"
-title: "aws-cli and jq"
+title: "awscli and jq"
 subtitle: ""
 tags:  ["aws", "jq", "cli" ]
 typora-root-url: ../../static
 ---
-Ah the classic partnerships, hot chocolate and marshmallows , hot dogs and sauce, hot aws cli and jq.
+Ah the classic partnerships, hot chocolate and marshmallows , hot dogs and sauce, hot aws cli and jq. Some days the GUI just won't easily tell you what you want to know.  The AWS CLI and jq to the rescue!
+<!--more-->
 
 ## Installation
 
@@ -56,5 +57,3 @@ Before you go crazy with jq alone... remember your friend `--filters` on the aws
   (.ResourceRecordSets[] | [.Name, .Type, .TTL,
   .ResourceRecords[0].Value]) | @tsv' | column -t -s $'\t | head -n 3'
   ```
-
-  

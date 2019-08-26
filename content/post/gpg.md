@@ -1,5 +1,5 @@
 ---
-date: "2018-09-24T20:35:15+10:00"
+date: "2019-08-26T22:53:58+10:00"
 title: "github code signing"
 subtitle: "automatically sign your git commits on your mac"
 tags:  ["git", "github", "gpg" ]

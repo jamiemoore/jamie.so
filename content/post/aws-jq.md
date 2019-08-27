@@ -1,7 +1,7 @@
 ---
 date: "2019-08-26T23:10:17+10:00"
 title: "awscli and jq"
-subtitle: ""
+subtitle: "parse the awscli output with jq"
 tags:  ["aws", "jq", "cli" ]
 typora-root-url: ../../static
 ---

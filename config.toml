@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [params]
-  Subtitle = "jamie's shared objects"
+  Subtitle = "jamie's notes"
   #commit = "https://github.com/jamiemoore/jamie.so/tree/"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   #favicon = "img/favicon.ico"

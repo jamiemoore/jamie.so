@@ -5,7 +5,7 @@ subtitle: "automatically sign your git commits on your mac"
 tags:  ["git", "github", "gpg" ]
 typora-root-url: ../../static
 ---
-Signing your code is an important part of verifying your identity to an SCM platform.  Particularly with a system like Github Enterprise where spoofing your colleagues email address can make your commits appear to come from them.  Enforcing signing on the repository would enable you to determine if this has taken place and allow you to verify this import part of the software supply chain.
+Signing your code is an important part of verifying your identity to an SCM platform.  Particularly with a system like Github Enterprise where spoofing your colleagues email address can make your commits appear to come from them.  Enforcing signing on the repository would enable you to determine if this has taken place and allow you to verify this important part of the software supply chain.
 <!--more-->
 
 ## Installation
